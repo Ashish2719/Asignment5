@@ -1,3 +1,11 @@
+/*
+ * Course: MAD201-01
+ * Assignment: 5
+ * Name: Ashish Prajapati
+ * Student ID: A00194842
+ * Description: Displays a filtered list showing only tasks that are marked as completed.
+ */
+
 import { MaterialIcons } from '@expo/vector-icons';
 import { router } from 'expo-router';
 import React from 'react';
