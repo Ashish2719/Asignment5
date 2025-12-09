@@ -1,3 +1,11 @@
+/*
+ * Course: MAD201-01
+ * Assignment: 5
+ * Name: Ashish Prajapati  
+ * Student ID: A00194842
+ * Description: Configures the Bottom Tab Navigator to switch between the 'All Tasks' view and the 'Completed Tasks' view.
+ */
+
 import { MaterialIcons } from '@expo/vector-icons';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import React from 'react';
