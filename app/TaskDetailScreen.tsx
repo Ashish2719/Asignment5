@@ -1,3 +1,11 @@
+/*
+ * Course: MAD201-01
+ * Assignment: 5
+ * Name: Ashish Prajapati
+ * Student ID: A00194842
+ * Description: Displays detailed information for a specific task and provides options to mark it as complete or delete it.
+ */
+
 import { router, useLocalSearchParams } from 'expo-router';
 import React from 'react';
 import { Alert, Button, Platform, StyleSheet, Text, View } from 'react-native';
